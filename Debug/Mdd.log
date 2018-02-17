@@ -1,0 +1,7 @@
+﻿  main.c
+f:\mycplus\mdd\mdd\main.c(23): warning C4047: “=”:“char”与“void *”的间接级别不同
+f:\mycplus\mdd\mdd\main.c(31): warning C4047: “==”:“int”与“void *”的间接级别不同
+f:\mycplus\mdd\mdd\main.c(35): warning C4047: “==”:“int”与“void *”的间接级别不同
+f:\mycplus\mdd\mdd\main.c(40): warning C4013: “system”未定义；假设外部返回 int
+  Mdd.vcxproj -> F:\myCplus\Mdd\Debug\Mdd.exe
+  Mdd.vcxproj -> F:\myCplus\Mdd\Debug\Mdd.pdb (Partial PDB)
